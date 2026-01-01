@@ -2,7 +2,6 @@
   font-family: "Outfit", sans-serif ;
 }
 
-
 body {
   background-image: url("images/background.png");
   background-repeat: no-repeat;
@@ -32,7 +31,8 @@ body {
 .secondary {
   background-color: hsl(0, 0%, 100%);
   width: 320px;
-  max-width: 90%;
+  max-width: 60%;
+  max-height: 90%;
 
   display: flex;
   flex-direction: column;
